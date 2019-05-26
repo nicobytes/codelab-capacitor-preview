@@ -1,0 +1,7 @@
+{
+  "name": "codelab-capacitor-preview",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
